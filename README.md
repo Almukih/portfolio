@@ -9,7 +9,7 @@ I am **Kimathi Alfred Mugambi**, a BCom (Accounting) graduate from Chuka Univers
 ## 🌐 Live Preview
 
 If hosted via GitHub Pages or another platform, you can insert your link here:  
-[View Portfolio]((https://github.com/Almukih/portfolio/tree/main/portfolio_hackathon))
+[View Portfolio](https://almukih.github.io/portfolio/)
 
 ## 🛠️ Built With
 
