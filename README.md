@@ -32,7 +32,7 @@ If hosted via GitHub Pages or another platform, you can insert your link here:
 ## 📑 How to Use
 
 1. Clone or download the repository.
-2. Open the `index.html` file in any browser.
+2. Open the `portfolio.html` file in any browser.
 3. Make sure all images and the `portfolio.css` file are in the same folder structure.
 
 ## 📬 Contact
